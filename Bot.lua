@@ -13,7 +13,7 @@ type table = {
 _G.Configuration = {
     --// Reporting
     ["Enabled"] = true,
-    ["BotToken"] = “7639130235:AAHKuildyurjEv7O3q6xeQtad3YXafNak7k”, -- Replace with your Telegram bot token
+    ["BotToken"] = “7639130235:AAHMCA49n9Zn-wiO0jLjeV9qDF81yTZoOsI”, -- Replace with your Telegram bot token
     ["ChatID"] = "-1002738709062", -- Replace with your Telegram chat ID
     ["Weather Reporting"] = true,
     
