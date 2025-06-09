@@ -11,7 +11,7 @@ type table = {
 _G.Configuration = {
 	--// Reporting
 	["Enabled"] = true,
-	["Webhook"] = "https://discord.com/api/webhooks.....", -- replace with your webhook url
+	["Webhook"] = "https://discord.com/api/webhooks/1358318207294771270/SCts1IewUIuaPKUJStbc40GWhWrT50ZdxKQ0YsF_9aNA00ClFnpIJeXCd9M3NzHITMNA", -- replace with your webhook url
 	["Weather Reporting"] = true,
 	
 	--// User
